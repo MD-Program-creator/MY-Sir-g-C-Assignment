@@ -93,11 +93,11 @@ int main()
 
 
                                             //Question#9
-#include<stdio.h>
+/*#include<stdio.h>
 int main()
 {
     int x=printf("Day 1 but 1 day people call me Danish the Coder ");
     printf("%d" ,x);
     return 0;
-}
+}*/
 
